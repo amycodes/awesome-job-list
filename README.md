@@ -86,6 +86,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Women Who Code: http://womenwhocode.com/jobs
 * Tech Ladies: https://hiretechladies.com
 * PowerToFly: https://powertofly.com/jobs/
+* RemoteWoman: https://remotewoman.com
 
 ## Ruby on Rails Jobs
 * RubyNow: https://jobs.rubynow.com/
@@ -121,3 +122,4 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * TripleByte: https://triplebyte.com
 * Profunctor: https://profunctor.io
 * SwissDev Jobs: https://swissdevjobs.ch
+* DiversifyTech: https://www.diversifytech.co/job-board
